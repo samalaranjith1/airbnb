@@ -1,0 +1,35 @@
+.App{
+     
+   display: flex;
+   flex-wrap: wrap;
+   align-content: space-between;
+   box-shadow: 1px 10px 100px 5px rgba(247, 97, 4, 0.5);
+ 
+ }
+ .template-card{
+    width:200px;
+    height: auto;
+    border: 2px solid green;
+    margin:5px;
+ }
+ .template-person-photo{
+    width: 100%;
+    height:200px;
+ }
+ .template-calling-image{
+    width:20px;
+    padding: 5px 3px;
+ }
+ p{
+    margin:0px;
+ }
+ .info-group{
+    display: flex;
+    font-size: 12px;
+    margin: 0px;
+ }
+ .template-mail-image{
+    width:20px;
+    padding: 5px 3px;
+
+ }
